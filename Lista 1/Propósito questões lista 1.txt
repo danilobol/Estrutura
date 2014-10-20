@@ -1,0 +1,45 @@
+﻿QuestÃ£o 1 - Inverte os valores de A e B.
+
+QuestÃ£o 2 - MantÃ©m o maior valor na primeira variÃ¡vel e o outro na segunda variÃ¡vel.
+
+QuestÃ£o 3 - Ordena 3 valores em ordem crescente.
+
+Questão 4 - Recebe 2 notas e faz o calculo da média normal e  ponderada, dividido em três funções.
+
+Questão 5 - Recebe 2 valores A e B e então o valor de B fica o mesmo e o valor de A passa ser a soma de A com B.
+
+Questão 6 - Resolve equações do 2º grau.
+
+Questão 7 - Diz a parte inteira e fracionária de um numero.
+
+Questão 8 - Recebe N numeros e diz qual numero mais se repete e qantas vezes ele se repetiu.
+
+Questão 9 - Recebe dois vetores e armazena em outro a soma destes vetores.
+
+Questão 10 - Recebe dois numeros em A e B, e retorna a soma do dobro desses dois numeros.
+
+Questão 11 - Recebe os elementos de um vetor e retorna o maior.
+
+Questão 12 - Recebe os elementos do vetor e retorna o menor e o maior.
+
+Questão 13 - Recebe um inteiro, um fracionário e um caractere, imprime o valor antes, muda o valor e imprime o valor depois.
+
+Questão 14 - Soma mais um em cada posição.
+
+Questão 15 - Imprime o maior endereço entre dois inteiros.
+
+Questão 16 - Recebe dois inteiros, compara o maior endereço e imprimo o valor dentro dele.
+
+Questão 17 - Imprime os endereços de um vetor
+
+Questão 18 - Imprime os endereços de uma matriz 3x3
+
+Questão 19 - Recebe 5 valores e imprime o dobro de cada valor lido
+
+Questão 20 - Recebe 5 nuemros e imprime somente os pares.
+
+Questão 21 - Verifica se uma string está contida em outra.
+
+Questão 22 - Recebe um vetor e substitui o valor de cada elemento do vetor por só um valor.
+
+Questão 23 - Imprime um vetor ultilizando aritimérica de ponteiro
