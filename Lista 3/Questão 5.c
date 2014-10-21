@@ -11,7 +11,7 @@ typedef struct
 int main (void)
 {
     int alunos, i;
-    printf("Quantos alunos ser„o cadastrados?: ");
+    printf("Quantos alunos ser√£o cadastrados?: ");
     scanf(" %d", &alunos);
 
     registro *r;
@@ -30,7 +30,6 @@ int main (void)
 
     }
 
-    r = r - alunos;
 
     for (i=0; i<alunos; i++)
     {
