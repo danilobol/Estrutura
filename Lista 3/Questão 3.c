@@ -2,19 +2,19 @@
 
 int main (){
 	
-    int *vetor, n=5, i;
+    int *vetor, i;
     
-    vetor = malloc(n*sizeof(int)); // aloca a memoria
+    vetor = malloc(5*sizeof(int)); // aloca a memoria
 
     printf("Digite os 5 elementos:\n");
-    for (i=0; i<n; i++){
+    for (i=0; i<5; i++){
     	
         scanf("%d", &vetor[i]);
     }
 
     printf("Vetor: ");
     
-	for (i=0; i<n; i++){
+	for (i=0; i<5; i++){
 
         printf("%d ", vetor[i]);
 
