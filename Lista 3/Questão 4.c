@@ -16,13 +16,11 @@ int main (){
 
     for (i=0; i <n; i++){
         if (numero[i] % 2 == 0){
-        	
-            printf("O numero %d e par\n", num[i]);
+ 
             par++;
         }
         else
         {
-            printf("O numero %d e impar\n", num[i]);
             impar++;
         }
     }
