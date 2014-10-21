@@ -3,7 +3,7 @@
 
 int main (void)
 {
-    int n, i, *vetor[30], i=0, j, cont=0;
+    int n, i, *vetor[10], i=0, j, cont=0;
 	
 	
     while (scanf ("%d",n) > 0){
