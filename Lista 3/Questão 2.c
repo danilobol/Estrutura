@@ -3,12 +3,12 @@
 
 int main (void)
 {
-    int n, i, *vetor[10], i=0, j, cont=0;
+    int n, i=0, *vetor[10], j, cont=0;
 	
 	
     while (scanf ("%d",n) > 0){
     	
-        vetor[i] = numero;
+        vetor[i] = n;
         i++;
         cont ++;
 
